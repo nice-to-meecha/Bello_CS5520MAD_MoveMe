@@ -1,0 +1,1 @@
+../../../MoveMe/MoveMe.uproject  /Game/Daytime_Green -Messaging -SessionId=951856C44A74D385B214E99365A10244 -SessionOwner="bello" -SessionName="Launch On Device" -iterative

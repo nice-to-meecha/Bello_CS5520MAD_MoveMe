@@ -1,0 +1,4 @@
+neu.edu.madcourse.Bello_CS5520_MoveMe
+1
+1.0
+name='com.epicgames.ue4.GameActivity.AppType' value=''
