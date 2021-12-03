@@ -1550,3 +1550,173 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-16.43.15:341][747]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
 [2021.12.03-16.43.16:697][849]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
 [2021.12.03-16.43.16:756][849]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2021.12.03-16.45.45:571][170]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson91C1FB694F15F3E57F9532B69F375263.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.45.45:614][170]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.45.45:614][170]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.48.03:717][472]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.03-16.48.05:966][662]Cmd: TRANSACTION UNDO
+[2021.12.03-16.48.05:966][662]LogEditorTransaction: Undo Edit Color and Opacity
+[2021.12.03-16.48.52:733][778]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.03-16.49.55:038][895]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.03-16.50.14:023][966]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.50.14:139][966]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2021.12.03-16.50.15:339][ 36]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget788652BE4D21A0530A616EB6E930207F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.50.15:361][ 36]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.50.15:362][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.52.01:097][861]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.52.01:208][861]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.12.03-16.52.02:070][919]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget342E8C0945C25E16D9E23E8B1480A03E.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.52.02:092][919]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.52.02:092][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.56.35:432][590]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-16.56.38:770][843]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-16.56.38:787][843]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-16.59.05:224][522]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-16.59.07:305][678]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-16.59.07:317][678]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-16.59.52:897][522]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-16.59.54:803][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-16.59.54:820][643]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.00.30:489][706]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-17.00.50:105][391]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget7793C4E24A7E34F4F14953AB192A524A.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.00.50:138][391]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.00.50:138][391]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.00.50:861][448]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.00.50:898][448]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] This blueprint (self) is not a BP_Cylinder_C, therefore ' Target ' must have a connection.
+[2021.12.03-17.00.50:898][448]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] Variable node  Get Cylinder  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.12.03-17.00.50:986][448]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.12.03-17.00.58:960][169]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget8AB79ACA4DC8560F67E1688BBF376EFF.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.00.58:992][169]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.00.58:992][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.00.59:935][254]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.00.59:941][254]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] This blueprint (self) is not a BP_Cylinder_C, therefore ' Target ' must have a connection.
+[2021.12.03-17.00.59:941][254]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] Variable node  Get Cylinder  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.12.03-17.01.00:026][254]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2021.12.03-17.01.06:517][955]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-17.01.06:953][965]LogEditorTransaction: Undo Move Node
+[2021.12.03-17.01.50:451][942]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget4CBF857444F257FD3E7382AA63D214E5.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.01.50:479][942]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.01.50:480][942]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.01.51:266][  4]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.01.51:380][  4]LogUObjectHash: Compacting FUObjectHashTables data took  12.97ms
+[2021.12.03-17.02.01:404][505]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.03-17.02.01:424][505]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.03-17.02.01:454][505]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.03-17.02.05:652][652]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cone
+[2021.12.03-17.02.05:674][652]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.03-17.02.06:991][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Architecture_Blueprints/BP_Cone.BP_Cone
+[2021.12.03-17.02.07:308][694]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2021.12.03-17.03.34:171][ 27]LogMaterial: Display: Missing cached shadermap for M_Floor_01 in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 9C344F08ABDA48679949757905649B26B8E2321B), compiling. 
+[2021.12.03-17.03.34:395][ 27]LogShaderCompilers: Display: Submitted 47 shader compile jobs with 'Low' priority
+[2021.12.03-17.03.34:404][ 27]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2021.12.03-17.03.34:405][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.12.03-17.03.34:405][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.12.03-17.03.34:405][ 27]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.12.03-17.03.34:405][ 27]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2021.12.03-17.03.47:417][212]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.12.03-17.03.47:417][212]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.03-17.03.47:450][212]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.12.03-17.03.47:450][212]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.03-17.03.47:493][212]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.03-17.03.47:493][212]LogShaderCompilers: Display: Total job queries 47, among them cache hits 0 (0.00%)
+[2021.12.03-17.03.47:493][212]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2021.12.03-17.03.47:493][212]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.02%
+[2021.12.03-17.03.47:493][212]LogShaderCompilers: Display: ================================================
+[2021.12.03-17.03.49:118][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.12.03-17.03.49:118][236]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.03-17.03.49:211][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.12.03-17.03.49:211][237]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.03-17.03.49:750][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.12.03-17.03.49:750][245]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.03-17.04.25:993][944]BlueprintLog: New page: Compile BP_Cone
+[2021.12.03-17.04.26:137][944]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2021.12.03-17.04.27:187][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture_Blueprints/BP_Cone" FILE="../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Architecture_Blueprints/BP_Cone.uasset" SILENT=true
+[2021.12.03-17.04.27:197][  9]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_Cone340CA955412353EC511AF6908ECD31F4.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Architecture_Blueprints/BP_Cone.uasset'
+[2021.12.03-17.04.27:232][  9]AssetCheck: New page: Asset Save: BP_Cone
+[2021.12.03-17.04.27:232][  9]LogContentValidation: Display: Validating Blueprint /Game/Architecture_Blueprints/BP_Cone.BP_Cone
+[2021.12.03-17.05.31:181][688]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.05.31:279][688]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2021.12.03-17.05.32:341][744]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_WidgetC8F85A404F0CFF380B55C186EB52E03D.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.05.32:392][744]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.05.32:392][744]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.07.15:053][299]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.07.15:134][299]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2021.12.03-17.08.59:530][607]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-17.09.08:172][204]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.09.08:188][204]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.09.43:042][629]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-17.09.45:398][763]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.09.45:414][763]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.10.01:679][961]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-17.10.01:783][961]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2021.12.03-17.12.27:860][562]LogUObjectHash: Compacting FUObjectHashTables data took  11.10ms
+[2021.12.03-17.12.27:862][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.082
+[2021.12.03-17.12.27:863][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([4] browsable assets)...
+[2021.12.03-17.12.27:863][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-17.12.27:902][562]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto3B12A7B1B4D0407FEDC6F06AEE56F2AE1.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto3.uasset'
+[2021.12.03-17.12.27:904][562]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.12.03-17.13.28:464][853]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-17.13.28:578][853]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2021.12.03-17.13.29:632][902]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson56974E9546666D3A023ABDA2C7E7461A.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-17.13.29:661][902]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-17.13.29:661][902]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-17.16.05:363][236]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-17.16.08:029][425]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.16.08:042][425]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.17.06:998][389]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-17.17.09:187][546]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.17.09:199][546]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.17.23:146][685]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-17.17.23:186][685]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-17.17.58:432][979]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.03-17.18.00:539][ 93]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.18.00:550][ 93]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.12.03-17.18.55:052][224]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.18.55:184][224]LogUObjectHash: Compacting FUObjectHashTables data took  13.03ms
+[2021.12.03-17.18.56:041][267]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget1BC469DC497BAB6F5964D5866846B4F9.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.18.56:085][267]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.18.56:085][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.19.01:799][552]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-17.19.01:940][552]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2021.12.03-17.19.02:997][600]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson13AB10734C98BA182FBC71B8C49AB03B.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-17.19.03:026][600]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-17.19.03:026][600]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-17.19.06:688][810]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.19.06:754][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2021.12.03-17.22.50:968][558]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget86A872CA40417F19EF54D0919C083964.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.22.51:004][558]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.22.51:004][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.23.05:079][389]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.23.05:156][389]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2021.12.03-17.24.11:121][823]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget289B4D734AE7A3D5A7D29CB337E2E3D4.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.24.11:164][823]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.24.11:164][823]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.24.12:224][885]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.24.12:356][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.12.03-17.24.14:122][982]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.24.14:189][982]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2021.12.03-17.25.01:876][373]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-17.25.01:906][373]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-17.25.21:261][487]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_WidgetC5544C26437AE0916521C9AB727DBCF4.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-17.25.21:292][487]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-17.25.21:292][487]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-17.25.21:993][528]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-17.25.22:096][528]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.12.03-17.25.36:051][275]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-17.25.36:161][275]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2021.12.03-17.25.37:013][312]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson7E30E4B244E2B8F12B251C8B3EA9013F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-17.25.37:047][312]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-17.25.37:047][312]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-17.25.38:231][376]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.25.38:301][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.12.03-17.26.39:683][762]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.26.39:766][762]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2021.12.03-17.27.51:833][545]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-17.27.51:857][545]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-17.28.01:180][  1]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-17.28.01:289][  1]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2021.12.03-17.28.02:223][ 41]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson4AC938F2455E16C802671CB4ACA4DF0C.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-17.28.02:253][ 41]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-17.28.02:253][ 41]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-17.28.03:459][102]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-17.28.03:545][102]LogUObjectHash: Compacting FUObjectHashTables data took  13.61ms
