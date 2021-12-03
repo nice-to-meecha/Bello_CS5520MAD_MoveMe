@@ -14,12 +14,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6DABDEE917AF6A20BB9D5D4FC0549ABA580F2760",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "2D283800886243B1BB733F466E29B82F41AFE834",
 			"Assets": [
 				"/Engine/EditorMaterials/PersonaFloorMat"
@@ -32,15 +26,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B5CAA0E796E207D357126B0D1858AB7E109433D9",
+			"ShaderMapHash": "AA8CA5FFA745FBF29F005FFBBBA83F0AB1179413",
 			"Assets": [
-				"/Engine/EditorMaterials/LevelGridMaterial2"
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "B5CAA0E796E207D357126B0D1858AB7E109433D9",
+			"Assets": [
+				"/Engine/EditorMaterials/LevelGridMaterial2"
 			]
 		},
 		{
