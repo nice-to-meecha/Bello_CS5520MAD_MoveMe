@@ -1249,3 +1249,304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-14.26.29:069][476]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson4DD4B25C43B22C403D6510A18F0C6E98.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
 [2021.12.03-14.26.29:096][476]AssetCheck: New page: Asset Save: BP_FirstPerson
 [2021.12.03-14.26.29:096][476]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-14.30.26:602][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.12.03-14.30.26:604][ 93]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.045
+[2021.12.03-14.30.26:604][ 93]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Architecture_Blueprints/BP_Cylinder] ([2] browsable assets)...
+[2021.12.03-14.30.26:661][ 93]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Architecture_Blueprints/BP_Cylinder.BP_Cylinder]
+[2021.12.03-14.30.26:662][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture_Blueprints/BP_Cylinder]
+[2021.12.03-14.30.26:672][ 93]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_Cylinder_Auto5D599497449CD5B7080E867ADA1127CAA.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Architecture_Blueprints/BP_Cylinder_Auto5.uasset'
+[2021.12.03-14.30.26:673][ 93]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.12.03-14.32.39:360][750]BlueprintLog: New page: Compile BP_Cylinder
+[2021.12.03-14.32.39:429][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.12.03-14.32.40:663][817]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_Cylinder1ABC4113459E49D824B24990ADD159F6.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Architecture_Blueprints/BP_Cylinder.uasset'
+[2021.12.03-14.32.40:682][817]AssetCheck: New page: Asset Save: BP_Cylinder
+[2021.12.03-14.32.40:682][817]LogContentValidation: Display: Validating Blueprint /Game/Architecture_Blueprints/BP_Cylinder.BP_Cylinder
+[2021.12.03-14.39.17:242][ 98]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.39.17:955][118]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.39.18:997][177]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.39.19:620][210]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.41.02:433][193]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.41.03:074][212]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.41.38:132][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.12.03-14.41.38:136][218]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.047
+[2021.12.03-14.41.38:136][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([2] browsable assets)...
+[2021.12.03-14.41.38:136][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-14.41.38:172][218]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto606E5E6014982A44FF4DAA2A2F10BA0DB.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto6.uasset'
+[2021.12.03-14.41.38:173][218]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.12.03-14.52.29:096][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.12.03-14.52.29:097][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.045
+[2021.12.03-14.52.29:098][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([2] browsable assets)...
+[2021.12.03-14.52.29:098][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-14.52.29:154][765]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto73017629F4F7E3ACFC331E3A20F9208E8.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto7.uasset'
+[2021.12.03-14.52.29:156][765]LogFileHelpers: Auto-saving content packages took 0.059
+[2021.12.03-14.54.15:191][ 45]LogEditorTransaction: Undo Rename Node
+[2021.12.03-14.54.15:744][ 56]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.54.16:273][ 92]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-14.54.16:848][133]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.54.17:252][155]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.54.17:576][170]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.54.17:909][185]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-14.54.18:453][221]LogEditorTransaction: Undo Rename Node
+[2021.12.03-14.54.18:924][249]LogEditorTransaction: Undo Add Node
+[2021.12.03-14.56.47:386][661]LogEditorTransaction: Undo Move Node
+[2021.12.03-14.56.49:433][801]LogEditorTransaction: Undo Add Node
+[2021.12.03-15.02.29:323][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.12.03-15.02.29:326][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.054
+[2021.12.03-15.02.29:327][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([4] browsable assets)...
+[2021.12.03-15.02.29:327][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-15.02.29:359][519]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto8C977FD58457A287B2B4CB69B50F641C8.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto8.uasset'
+[2021.12.03-15.02.29:360][519]LogFileHelpers: Auto-saving content packages took 0.035
+[2021.12.03-15.03.57:496][365]LogEditorTransaction: Undo Move Node
+[2021.12.03-15.03.59:213][489]LogEditorTransaction: Undo Add Node
+[2021.12.03-15.05.09:999][749]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.05.10:003][749]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2021.12.03-15.05.10:007][749]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\User_Interface\Widgets\W_AlterLayout_Widget.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Input Touch End
+[2021.12.03-15.05.10:048][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.12.03-15.05.27:492][617]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.05.27:533][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.12.03-15.14.59:593][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.12.03-15.14.59:596][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.049
+[2021.12.03-15.14.59:597][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([4] browsable assets)...
+[2021.12.03-15.14.59:597][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-15.14.59:632][325]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto98D76675D4345930F9D06D4927CFFF5F0.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto9.uasset'
+[2021.12.03-15.14.59:633][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/User_Interface/Widgets/W_AlterLayout_Widget] ([2] browsable assets)...
+[2021.12.03-15.14.59:634][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/Widgets/W_AlterLayout_Widget]
+[2021.12.03-15.14.59:642][325]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget_Auto9C174375D47A784BDD20B7FAB6CB5B077.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/User_Interface/Widgets/W_AlterLayout_Widget_Auto9.uasset'
+[2021.12.03-15.14.59:643][325]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.12.03-15.15.32:930][761]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.15.32:977][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2021.12.03-15.18.03:502][330]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.03-15.18.16:123][343]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.03-15.25.48:147][339]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget66F9AFCD449ED37A8EAA8CB1240A8D14.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-15.25.48:182][339]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-15.25.48:182][339]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-15.25.49:632][481]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.25.49:706][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.12.03-15.27.59:582][610]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-15.27.59:654][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.12.03-15.28.00:571][668]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPersonF77E15F2487C06E79B32C0856B1061DE.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-15.28.00:594][668]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-15.28.00:594][668]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-15.28.09:059][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-15.28.09:356][304]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2021.12.03-15.28.11:184][484]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.03-15.28.11:184][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.03-15.28.11:270][484]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-15.28.11:560][484]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2021.12.03-15.28.38:231][780]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-15.29.22:834][235]LogSlate: Took 0.002896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.03-15.29.37:783][676]BlueprintLog: New page: Compile BP_GameMode
+[2021.12.03-15.29.37:854][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.12.03-15.30.25:797][690]BlueprintLog: New page: Compile BP_GameMode
+[2021.12.03-15.30.25:864][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.12.03-15.30.26:900][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Blueprints/BP_GameMode" FILE="../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset" SILENT=true
+[2021.12.03-15.30.26:908][767]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_GameMode0190843F4255CFE8D687ACA4F5C793E1.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset'
+[2021.12.03-15.30.26:937][767]AssetCheck: New page: Asset Save: BP_GameMode
+[2021.12.03-15.30.26:937][767]LogContentValidation: Display: Validating Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-15.32.08:251][229]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-15.32.08:264][229]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\Character_Blueprints\BP_FirstPerson.uasset: [Compiler] This blueprint (self) is not a BP_GameMode_C, therefore ' Target ' must have a connection.
+[2021.12.03-15.32.08:265][229]LogBlueprint: Error: [AssetLog] C:\Users\bello\Documents\Bello_CS5520MAD_MoveMe\MoveMe\Content\Character_Blueprints\BP_FirstPerson.uasset: [Compiler] Variable node  Get alter_layout_widget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.12.03-15.32.08:328][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.12.03-15.32.54:958][839]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-15.32.55:037][839]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.12.03-15.32.56:801][946]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson3E203DF24C0768AB2C44ADA9A1352655.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-15.32.56:827][946]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-15.32.56:827][946]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-15.33.11:625][284]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-15.33.11:673][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.12.03-15.33.50:467][405]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.03-15.33.56:199][663]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-15.33.56:223][663]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-15.34.02:975][111]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-15.34.03:068][111]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.12.03-15.36.41:700][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.12.03-15.36.41:702][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.064
+[2021.12.03-15.36.41:702][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/User_Interface/Widgets/W_AlterLayout_Widget] ([2] browsable assets)...
+[2021.12.03-15.36.41:702][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/Widgets/W_AlterLayout_Widget]
+[2021.12.03-15.36.41:712][ 45]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget_Auto03637D7F84A07A66DD8B1A696CC155674.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/User_Interface/Widgets/W_AlterLayout_Widget_Auto0.uasset'
+[2021.12.03-15.36.41:714][ 45]LogFileHelpers: Auto-saving content packages took 0.013
+[2021.12.03-15.45.48:628][507]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.45.48:758][507]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2021.12.03-15.45.49:536][545]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget567672574E25D1DC21CB0EBA70965C3E.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-15.45.49:563][545]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-15.45.49:563][545]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-15.45.57:856][ 26]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-15.45.57:912][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2021.12.03-15.47.11:684][145]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-15.47.11:778][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.12.03-15.47.13:168][217]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPersonC27D262E46206D92312AFA9DC784329F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-15.47.13:195][217]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-15.47.13:195][217]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-15.47.14:486][293]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-15.47.14:558][293]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2021.12.03-15.51.34:836][351]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-15.51.35:363][361]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-15.51.36:003][396]LogEditorTransaction: Undo Paste clipboard contents
+[2021.12.03-15.52.13:121][452]LogEditorTransaction: Undo Move Node
+[2021.12.03-15.52.19:426][774]LogEditorTransaction: Undo Move Node
+[2021.12.03-15.54.08:613][  3]LogEditorTransaction: Undo Move Node
+[2021.12.03-15.54.08:937][  9]LogEditorTransaction: Undo Create Pin Link
+[2021.12.03-15.54.09:295][ 19]LogEditorTransaction: Undo Add Node
+[2021.12.03-15.54.09:590][ 30]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-15.54.09:931][ 45]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-15.54.10:264][ 63]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-15.54.10:606][ 79]LogEditorTransaction: Undo Move Node
+[2021.12.03-15.54.11:022][ 98]LogEditorTransaction: Undo Move Nodes
+[2021.12.03-15.54.11:571][125]LogEditorTransaction: Undo Paste clipboard contents
+[2021.12.03-15.54.45:972][142]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2021.12.03-15.54.45:975][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.078
+[2021.12.03-15.54.45:976][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Blueprints/BP_FirstPerson] ([4] browsable assets)...
+[2021.12.03-15.54.45:976][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/BP_FirstPerson]
+[2021.12.03-15.54.46:015][142]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson_Auto135FEF2494C598B69B99F099D4EFCD30F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/Character_Blueprints/BP_FirstPerson_Auto1.uasset'
+[2021.12.03-15.54.46:017][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/User_Interface/Widgets/W_AlterLayout_Widget] ([4] browsable assets)...
+[2021.12.03-15.54.46:017][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/Widgets/W_AlterLayout_Widget]
+[2021.12.03-15.54.46:030][142]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget_Auto14422863347C8197977418FAC28425404.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/User_Interface/Widgets/W_AlterLayout_Widget_Auto1.uasset'
+[2021.12.03-15.54.46:031][142]LogFileHelpers: Auto-saving content packages took 0.055
+[2021.12.03-15.59.49:028][168]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-15.59.49:126][168]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2021.12.03-16.01.35:724][483]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.01.35:813][483]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2021.12.03-16.01.36:748][534]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget4F3EEA1141A8E99CBA15E594EFBDBF07.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.01.36:778][534]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.01.36:778][534]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.01.40:741][756]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-16.01.40:834][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.12.03-16.01.41:885][807]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson0ED24937445A665D9512218EA100F3F7.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.01.41:905][807]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.01.41:905][807]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.01.45:674][ 22]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.01.45:753][ 22]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2021.12.03-16.02.34:309][346]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.02.34:417][346]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.12.03-16.02.36:040][432]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_WidgetD17BA3CB4F67213D2F8F02879D1DE7AF.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.02.36:068][432]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.02.36:068][432]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.02.58:076][675]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.02.58:141][675]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.12.03-16.08.04:056][251]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-16.08.04:170][251]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.12.03-16.08.05:202][299]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPersonB1A64B3E40C56370379FB19583FE0F3F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.08.05:243][299]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.08.05:243][299]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.08.06:871][395]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.08.06:935][395]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2021.12.03-16.11.16:085][995]LogSlate: Window 'W_AlterLayout_Widget' being destroyed
+[2021.12.03-16.11.17:675][ 86]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_WidgetB8A6C445453FAB6C7921BB86F70E95BA.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.11.17:710][ 86]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.11.17:710][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.11.18:554][136]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.11.18:705][136]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2021.12.03-16.11.40:239][339]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.11.40:308][339]LogUObjectHash: Compacting FUObjectHashTables data took  11.31ms
+[2021.12.03-16.12.32:852][491]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.12.32:941][491]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2021.12.03-16.12.33:940][542]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget4540713C4AF4ACC49C24AB93ED6A83BE.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.12.33:984][542]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.12.33:984][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.12.40:961][937]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.12.41:027][937]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
+[2021.12.03-16.15.33:275][ 19]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-16.15.33:374][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2021.12.03-16.15.34:353][ 63]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPersonD7E95C1B4C79288680AABA9D009243AE.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.15.34:381][ 63]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.15.34:381][ 63]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.15.47:371][815]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.15.47:458][815]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2021.12.03-16.15.48:633][869]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget0F3B30184D1C3CDB9ADCD3A174278D0F.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.15.48:656][869]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.15.48:656][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.15.52:289][ 77]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.15.52:344][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.12.03-16.16.35:613][101]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.16.35:693][101]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.12.03-16.17.52:056][638]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.17.52:212][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.12.03-16.17.53:212][689]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget81A3B8DC4500849C5DB577919731CE14.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.17.53:242][689]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.17.53:242][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.17.55:708][825]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.17.55:778][825]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.12.03-16.19.25:719][398]BlueprintLog: New page: Compile BP_GameMode
+[2021.12.03-16.19.25:838][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.12.03-16.19.26:765][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Blueprints/BP_GameMode" FILE="../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset" SILENT=true
+[2021.12.03-16.19.26:777][444]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_GameMode03A7407E49A6D72512EB5C9198724801.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset'
+[2021.12.03-16.19.26:817][444]AssetCheck: New page: Asset Save: BP_GameMode
+[2021.12.03-16.19.26:817][444]LogContentValidation: Display: Validating Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-16.19.28:098][515]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.19.28:182][515]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2021.12.03-16.19.59:420][296]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.19.59:479][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.12.03-16.20.00:800][369]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget4968005C43C58D22BAB4229D29FABBB8.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.20.00:824][369]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.20.00:824][369]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.20.03:233][504]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.20.03:293][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.12.03-16.22.21:688][134]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.22.21:778][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.12.03-16.22.22:621][173]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget53CE63C847D6CBA279408E8F18B84CC2.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.22.22:651][173]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.22.22:651][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.22.28:849][504]BlueprintLog: New page: Compile BP_GameMode
+[2021.12.03-16.22.28:942][504]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2021.12.03-16.22.30:058][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Blueprints/BP_GameMode" FILE="../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset" SILENT=true
+[2021.12.03-16.22.30:072][566]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_GameMode96381CD24DEB42F3696FE28B1C3BF4E1.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset'
+[2021.12.03-16.22.30:094][566]AssetCheck: New page: Asset Save: BP_GameMode
+[2021.12.03-16.22.30:094][566]LogContentValidation: Display: Validating Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-16.22.32:761][716]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-16.22.32:881][716]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2021.12.03-16.22.34:015][768]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPerson9868FCD544B25D3D49D0878199DFEE06.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.22.34:048][768]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.22.34:048][768]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.22.35:172][823]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.22.35:234][823]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2021.12.03-16.24.11:968][815]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.24.12:031][815]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2021.12.03-16.25.18:773][731]LogEditorTransaction: Undo Delete current selection
+[2021.12.03-16.25.19:245][742]LogEditorTransaction: Undo Create Binding
+[2021.12.03-16.25.45:481][236]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.25.45:577][236]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.12.03-16.26.05:960][368]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_WidgetCCB3374445EE87F6C0A8A0B7E7EFB3AF.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.26.05:998][368]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.26.05:999][368]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.26.10:246][607]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.26.10:326][607]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2021.12.03-16.27.32:991][530]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2021.12.03-16.27.32:993][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Daytime_Green' took 0.064
+[2021.12.03-16.27.32:994][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/User_Interface/Widgets/W_AlterLayout_Widget] ([4] browsable assets)...
+[2021.12.03-16.27.32:994][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/Widgets/W_AlterLayout_Widget]
+[2021.12.03-16.27.33:008][530]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget_Auto2DDD313AD4AD1422A069810BAACCEF3CA.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/Autosaves/Game/User_Interface/Widgets/W_AlterLayout_Widget_Auto2.uasset'
+[2021.12.03-16.27.33:009][530]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.12.03-16.34.13:896][321]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.34.13:988][321]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.12.03-16.34.16:958][528]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget4F552AA6414F0E402C6C45BD618F6E32.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.34.16:985][528]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.34.16:985][528]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.34.18:117][615]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.34.18:183][615]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.12.03-16.36.42:499][873]LogEditorTransaction: Undo Paste clipboard contents
+[2021.12.03-16.37.15:156][296]BlueprintLog: New page: Compile W_AlterLayout_Widget
+[2021.12.03-16.37.15:245][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.12.03-16.37.16:695][411]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/W_AlterLayout_Widget6255A56149889BB714F9C1A78CC94195.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/User_Interface/Widgets/W_AlterLayout_Widget.uasset'
+[2021.12.03-16.37.16:724][411]AssetCheck: New page: Asset Save: W_AlterLayout_Widget
+[2021.12.03-16.37.16:724][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/User_Interface/Widgets/W_AlterLayout_Widget.W_AlterLayout_Widget
+[2021.12.03-16.37.32:058][780]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-16.37.32:104][780]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-16.37.57:426][426]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.37.57:486][426]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.12.03-16.39.55:048][235]BlueprintLog: New page: Compile BP_GameMode
+[2021.12.03-16.39.55:158][235]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.12.03-16.39.56:387][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Blueprints/BP_GameMode" FILE="../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset" SILENT=true
+[2021.12.03-16.39.56:395][326]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_GameModeDCF51FB54FA5CB962E3BCAB16BEEB13E.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Game_Blueprints/BP_GameMode.uasset'
+[2021.12.03-16.39.56:417][326]AssetCheck: New page: Asset Save: BP_GameMode
+[2021.12.03-16.39.56:417][326]LogContentValidation: Display: Validating Blueprint /Game/Game_Blueprints/BP_GameMode.BP_GameMode
+[2021.12.03-16.40.12:113][455]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.03-16.40.12:138][455]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.03-16.40.53:872][122]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.40.53:927][122]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.12.03-16.43.14:333][700]BlueprintLog: New page: Compile BP_FirstPerson
+[2021.12.03-16.43.14:439][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.12.03-16.43.15:310][747]LogSavePackage: Moving '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Saved/BP_FirstPersonFDA8908E43A8751408D6CA95AE0BA136.tmp' to '../../../../../../Users/bello/Documents/Bello_CS5520MAD_MoveMe/MoveMe/Content/Character_Blueprints/BP_FirstPerson.uasset'
+[2021.12.03-16.43.15:341][747]AssetCheck: New page: Asset Save: BP_FirstPerson
+[2021.12.03-16.43.15:341][747]LogContentValidation: Display: Validating Blueprint /Game/Character_Blueprints/BP_FirstPerson.BP_FirstPerson
+[2021.12.03-16.43.16:697][849]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.03-16.43.16:756][849]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
