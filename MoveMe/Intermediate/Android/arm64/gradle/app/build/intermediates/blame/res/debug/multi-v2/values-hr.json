@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "Y:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
+            "outputFile": "Z:\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bello\\.gradle\\caches\\transforms-2\\files-2.1\\6acf39d8dbb1d3950d09ad4c6aaf8b7b\\jetified-play-services-ads-11.8.0\\res\\values-hr\\values.xml",

@@ -76,4 +76,4 @@ Arch=-armv7
 Arch=-arm64
 GPUArch=
 GameDefaultMap=/Engine/Maps/Templates/Template_Default.Template_Default
-GlobalDefaultGameMode=/Game/Game_Blueprints/Camera_Movement_Mode_Attempt2.Camera_Movement_Mode_Attempt2_C
+GlobalDefaultGameMode=/Game/Game_Blueprints/BP_GameMode.BP_GameMode_C

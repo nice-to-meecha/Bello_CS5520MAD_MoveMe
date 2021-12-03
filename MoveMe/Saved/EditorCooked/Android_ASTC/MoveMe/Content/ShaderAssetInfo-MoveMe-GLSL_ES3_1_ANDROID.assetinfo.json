@@ -2,45 +2,15 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "0BCEBA82B1FCEA2E16DAD3AC8A98C287AD2C49AD",
+			"ShaderMapHash": "B5CAA0E796E207D357126B0D1858AB7E109433D9",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "8853FF192A993DFE4BDD261E19A06F7423D096F7",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
-			]
-		},
-		{
-			"ShaderMapHash": "2D283800886243B1BB733F466E29B82F41AFE834",
-			"Assets": [
-				"/Engine/EditorMaterials/PersonaFloorMat"
-			]
-		},
-		{
-			"ShaderMapHash": "8800D91D2CFF3C70B724A281C95405320E2C7313",
-			"Assets": [
-				"/Engine/EditorMaterials/GridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "AA8CA5FFA745FBF29F005FFBBBA83F0AB1179413",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Engine/EditorMaterials/LevelGridMaterial2"
 			]
 		},
 		{
 			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "B5CAA0E796E207D357126B0D1858AB7E109433D9",
-			"Assets": [
-				"/Engine/EditorMaterials/LevelGridMaterial2"
 			]
 		},
 		{
@@ -601,6 +571,30 @@
 			"ShaderMapHash": "896A7E869EEA5FCC1BFA7294A9E141F81BD0D873",
 			"Assets": [
 				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8853FF192A993DFE4BDD261E19A06F7423D096F7",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "0BCEBA82B1FCEA2E16DAD3AC8A98C287AD2C49AD",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "AA8CA5FFA745FBF29F005FFBBBA83F0AB1179413",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ED321EAEE03F8D2C15AF9FFBE5933FC653B1F64D",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
 			]
 		}
 	]
